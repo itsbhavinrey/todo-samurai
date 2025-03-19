@@ -1,15 +1,23 @@
+# VITE ISSUES:
+
+marking switcher active icon is not white anymore
+dumbo linchart gridlines
+
+# P2 ISSUES
+
+(canIgnore) Modal : z index issue, should be removed if collapsible menu is refactored
+pinColumns is a container Query implementation, AND ITS BREAKING DOWNLOAD
+containerStyles ( also viewSwitcher breakpoints)
+
+# doubts
+
+onApply mount animation glitch
+random media queries
+linked stylesheet's px to rem how??
+
+####
+
 autoupdate is double in mobile
-
-advaith issue
-synchronus api issue
-plus icon issue
-
-apply issue on different branch
-
-isMobile handling: dropPanelCollapsed, pinColumns and DashboardGrid
-
-<!-- transition when clicked but without SETTIMEOUT -->
-<!-- pane and dialog and modal -->
 
 Title and close icon for some Popovers
 apply button UI issue
@@ -51,9 +59,6 @@ clientFilterTooltip width is not proper
 
 # InProgress
 
-close modal and suggestion modal on creating custom measure
-cross icon in all bottom drawers? how to escape? cross icon
-
 pane alignment
 header alignment
 
@@ -70,7 +75,5 @@ play a tone on clicking apply
 
 # bhai thode aur
 
-1. sugges ko drawer in mobile
- <!-- 2. viewswitcher keyword and gadget dont use -->
-2. js constatnt and css ka sync for animation duration and screendimensions
+2. js constant and css ka sync for animation duration and screendimensions
 3. table tile ka tooltip
